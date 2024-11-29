@@ -1,0 +1,3 @@
+_id,srcValue,userSN,realTime,srcLatitude,srcLongitude,srcSpeed,srcRPM,srcAPS,srcTPS,srcRPS,srcMAF,srcFuelLevel,srcTorque,srcEngineLoad,srcFuelTrimB1S,srcFuelTrimB2S,srcIntakePress,srcEngineCoolantTemp,srcEngineOilTemp,srcFuelTrimB1L,srcFuelTrimB2L,srcAmbientAirTemp,srcAbsolutePress,srcHybridBatteryT,srcDPF,srcDPFTemp,srcIntakeAirTemp,srcEGT1,srcEGT2,srcUploadTime,srcBattery,srcGyroValue
+1,23113001,0,20231130081400,0.0,0.0,0.0,922.0,14.509804,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,null,0.0,0.0
+2,23113001,0,20231130081401,0.0,0.0,0.0,922.0,14.509804,16.862745,0.0,0.0,20.784313,0.0,37.2549,0.0,0.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,null,0.0,-0.5903113484382629

@@ -1,0 +1,4 @@
+_id,srcValue,userSN,realTime,srcLatitude,srcLongitude,srcSpeed,srcRPM,srcAPS,srcTPS,srcRPS,srcMAF,srcFuelLevel,srcTorque,srcEngineLoad,srcFuelTrimB1S,srcFuelTrimB2S,srcIntakePress,srcEngineCoolantTemp,srcEngineOilTemp,srcFuelTrimB1L,srcFuelTrimB2L,srcAmbientAirTemp,srcAbsolutePress,srcHybridBatteryT,srcDPF,srcDPFTemp,srcIntakeAirTemp,srcEGT1,srcEGT2,srcUploadTime,srcBattery
+1,19080504,0,20190805104929,0.0,0.0,0.0,660.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,null,0.0
+2,19080504,0,20190805104930,0.0,0.0,0.0,662.0,14.509804,16.078432,0.0,4.03,0.0,0.0,41.568626,0.0390625,0.0,66.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,null,0.0
+3,19080504,0,20190805104931,0.0,0.0,0.0,0.0,14.509804,16.078432,0.0,1.57,0.0,0.0,34.117645,0.0390625,0.0,50.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0,0.0,0.0,null,0.0
